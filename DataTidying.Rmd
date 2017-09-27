@@ -1,6 +1,6 @@
 ---
 title: "TidyData"
-author: "Issy Belzil"
+author: "Issy Belzil and Mikaela Murgoitio"
 date: '2017-09-20'
 output: html_document
 ---
